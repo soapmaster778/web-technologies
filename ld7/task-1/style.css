@@ -1,0 +1,39 @@
+.block {
+  border: 1px solid black;
+  padding: 15px 20px 30px 20px;
+  height: 100px;
+}
+
+.top_lefl {
+  background: #548dd4;
+  width: 500px;
+  left: 410px;
+  top: 20px;
+  position: absolute;
+
+}
+
+
+.top_right {
+  background: #00b050;
+  width: 500px;
+  right: 410px;
+  top: 20px;
+  position: absolute;
+}
+
+.bottom_lefl {
+  background: #00b050;
+  width: 500px;
+  right: 410px;
+  top: 180px;
+  position: absolute;
+}
+
+.bottom_right {
+  background: #548dd4;
+  width: 500px;
+  left: 410px;
+  top: 180px;
+  position: absolute;
+}
